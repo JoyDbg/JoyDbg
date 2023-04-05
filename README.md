@@ -18,6 +18,7 @@ Turned on excellence !
 👯 I’m looking to collaborate on remodelling the front of websites.
 
 🛠 Tech Stack
+
 HTML  CSS  JavaScript  Bootstrap Typescript
 Git  GitHub  Visual Studio Code 
 
@@ -28,5 +29,7 @@ My name also suits me very well as people say !
 🤔 I’m looking for help with finding a good opportunity !
 
 📫 If you like my work and want to discuss or colaborate, reach me :
-[www.linkedin.com/in/joydanenberg/]
+
+www.linkedin.com/in/joydanenberg/
+
 joy.danenberg@gmail.com
